@@ -1,0 +1,12 @@
+Common workloads for Google Cloud Datastore:
+✑ User profiles
+✑ Product catalogs
+✑ Game state
+
+Time series Data
+✑ Cloud spanner
+
+
+1. Google Cloud Dataflow is essential to transform, enrich and then store telemetry data by using distributed data pipelines
+
+2. Cloud Pub/Sub is essential to handle the streams of vehicle data while at the same time decoupling the specifics of the backend processing implementation
